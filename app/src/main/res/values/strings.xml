@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkFG</string>
+    <string name="navigation_drawer_open">Ouvrir la navigation</string>
+    <string name="navigation_drawer_close">Fermer la navigation</string>
+</resources>
